@@ -10,7 +10,7 @@
               </a>
             </div>
             <div class="widget-copyright">
-              <p>© 2021 <span>Tiny Vue</span>. <br>Made with <i class="icon_heart"></i> by <a target="_blank" href="https://github.com/aminurislamarnob">AI ARNOB</a></p>
+              <p>© 2021 <span>Tiny Vue</span>. <br>Made with <i class="icon_heart"></i> by <a target="_blank" href="https://aiarnob.com/">AI ARNOB</a></p>
             </div>
           </div>
         </div>
